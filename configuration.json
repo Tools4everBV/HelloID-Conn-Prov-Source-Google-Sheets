@@ -36,5 +36,23 @@
       "type": "password",
       "required": true
     }
+  },
+  {
+    "key": "sheetId",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Sheet ID",
+      "required": true
+    }
+  },
+  {
+    "key": "sheetRange",
+    "type": "input",
+    "defaultValue": "Sheet1",
+    "templateOptions": {
+      "label": "Sheet Range",
+      "required": true
+    }
   }
 ]
