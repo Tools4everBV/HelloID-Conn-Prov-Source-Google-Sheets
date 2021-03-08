@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Assets/GoogleLogo.png">
 </p>
-In this example we are going to connect to the Google Sheets API (https://developers.google.com/admin-sdk/directory) using OAuth2.0 and the Powershell.
+In this example we are going to connect to the Google Sheets API using OAuth2.0 and the Powershell.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
