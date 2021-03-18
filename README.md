@@ -8,7 +8,7 @@ In this example we are going to connect to the Google Sheets API using OAuth2.0 
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Setting up the Google API access](#setting-up-the-google-api-access)
-* [Authorizaton](#authorization)
+* [Authorization](#authorization)
 * [Setup the PowerShell connector](#setup-the-powerShell-connector)
 
 <!-- GETTING STARTED -->
