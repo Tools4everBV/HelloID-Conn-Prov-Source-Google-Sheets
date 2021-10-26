@@ -20,7 +20,7 @@ By using this connector you will have the ability to create one of the following
 
 ## Setting up the Google API access
  1. Go to Google Developers Console and create a new project by clicking on the top bar and choose new project. Give your project a name and click create. When you are done, click the top bar again and select your newly created project.
- 2. You will see the empty dashboard where we need to select which API we want to interact with, In this example we are managing user accounts so we selected the Admin SDK. Click Enable after which you will be redirected back to the dashboard.
+ 2. You will see the empty dashboard where we need to select which API we want to interact with, In this example we are retrieving Drive data so we select the Google Drive API. Click Enable after which you will be redirected back to the dashboard.
  3. As stated on the dashboard, go to the credentials menu item and click on + Create Credentials and choose OAuth client ID.
  4. Application type choose Web application.
  5. Fill in a name you like for the OAuth 2.0 client ID.
